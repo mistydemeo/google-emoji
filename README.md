@@ -5,6 +5,7 @@ This repository contains a full set of Google's low-resolution, animated pixel e
 
 These adorable pictures are based on the low-res animated emoji which were used on older Japanese smartphones. ![sparkles](google/U+FEB60.gif)
 With their cute pixel art and animation, they're very charming. ![sparkling heart](google/U+FEB10.gif) Google's set is partially based on the SoftBank set, reusing many images from it, though it's been updated in a number of ways to correspond to the set proposed for Unicode 6.0. ![cellular phone](google/U+FE525.gif)
+Because of its pre-Unicode history, it also contains many emoji which were left out of Unicode because of their niche applications or lack of global relevance. ![J PHONE 1](google/U+FEE7B.gif)![J PHONE 2](google/U+FEE7C.gif)![J PHONE 3](google/U+FEE7D.gif) ![Shibuya 109](google/U+FE4C5.gif)
 
 Directory structure
 -------------------
