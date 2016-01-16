@@ -3,8 +3,8 @@ Google emoji set
 
 This repository contains a full set of Google's low-resolution, animated pixel emoji (better known as those [animated icons that show up in spam messages](http://stackoverflow.com/questions/28095387/animated-icon-in-email-subject).
 
-These adorable pictures are based on the low-res animated emoji which were used on older Japanese smartphones.
-With their cute pixel art and animation, they're very charming. Google's set is partially based on the SoftBank set, reusing many images from it, though it's been updated in a number of ways to correspond to the set proposed for Unicode 6.0.
+These adorable pictures are based on the low-res animated emoji which were used on older Japanese smartphones. ![sparkles](google/U+FEB60.gif)
+With their cute pixel art and animation, they're very charming. ![sparkling heart](google/U+FEB10.gif) Google's set is partially based on the SoftBank set, reusing many images from it, though it's been updated in a number of ways to correspond to the set proposed for Unicode 6.0. ![cellular phone](google/U+FE525.gif)
 
 Directory structure
 -------------------
