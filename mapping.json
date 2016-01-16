@@ -1,0 +1,3207 @@
+{
+  "U+FEB1D": {
+    "softbank": "U+E20F", 
+    "docomo": "U+E690", 
+    "kddi": "U+E5A3"
+  }, 
+  "U+FE4F9": {
+    "softbank": "U+E03D", 
+    "docomo": "U+E677", 
+    "kddi": "U+E57E"
+  }, 
+  "U+FE823": {
+    "softbank": "U+E003", 
+    "docomo": "U+E6F9", 
+    "kddi": "U+E4EB"
+  }, 
+  "U+FE7E3": {
+    "softbank": "U+E01F", 
+    "docomo": "U+E65D", 
+    "kddi": "U+E4B0"
+  }, 
+  "U+FEE7D": {
+    "softbank": "U+E25A"
+  }, 
+  "U+FEE7B": {
+    "softbank": "U+E258"
+  }, 
+  "U+FEE7C": {
+    "softbank": "U+E259"
+  }, 
+  "U+FEE7A": {
+    "softbank": "U+E257"
+  }, 
+  "U+FEB7E": {
+    "kddi": "U+EAFF"
+  }, 
+  "U+FEB7D": {
+    "kddi": "U+EAFE"
+  }, 
+  "U+FEB7F": {
+    "kddi": "U+EB00"
+  }, 
+  "U+FEB7A": {
+    "kddi": "U+E4F0"
+  }, 
+  "U+FEB7C": {
+    "kddi": "U+EAFD"
+  }, 
+  "U+FEB7B": {
+    "kddi": "U+E4F2"
+  }, 
+  "U+FEE76": {
+    "softbank": "U+E53E"
+  }, 
+  "U+FEE77": {
+    "softbank": "U+E254"
+  }, 
+  "U+FEE74": {
+    "softbank": "U+E53C"
+  }, 
+  "U+FEE75": {
+    "softbank": "U+E53D"
+  }, 
+  "U+FEB79": {
+    "kddi": "U+E55B"
+  }, 
+  "U+FEB78": {
+    "kddi": "U+E55A"
+  }, 
+  "U+FEE70": {
+    "softbank": "U+E538"
+  }, 
+  "U+FEE71": {
+    "softbank": "U+E539"
+  }, 
+  "U+FEB75": {
+    "softbank": "U+E21B", 
+    "kddi": "U+E536"
+  }, 
+  "U+FEB74": {
+    "softbank": "U+E21B", 
+    "kddi": "U+E547"
+  }, 
+  "U+FE807": {
+    "softbank": "U+E125", 
+    "docomo": "U+E67E", 
+    "kddi": "U+E49E"
+  }, 
+  "U+FEB76": {
+    "softbank": "U+E21B", 
+    "kddi": "U+E537"
+  }, 
+  "U+FEB71": {
+    "softbank": "U+E21B", 
+    "kddi": "U+E538"
+  }, 
+  "U+FEB70": {
+    "softbank": "U+E21A", 
+    "kddi": "U+E535"
+  }, 
+  "U+FEB73": {
+    "softbank": "U+E21B", 
+    "kddi": "U+E546"
+  }, 
+  "U+FEB72": {
+    "softbank": "U+E21A", 
+    "kddi": "U+E539"
+  }, 
+  "U+FE190": {
+    "softbank": "U+E419", 
+    "docomo": "U+E691", 
+    "kddi": "U+E5A4"
+  }, 
+  "U+FE4FE": {
+    "kddi": "U+E589"
+  }, 
+  "U+FE191": {
+    "softbank": "U+E41B", 
+    "docomo": "U+E692", 
+    "kddi": "U+E5A5"
+  }, 
+  "U+FE7DE": {
+    "softbank": "U+E42D", 
+    "kddi": "U+EADE"
+  }, 
+  "U+FEB9F": {
+    "softbank": "U+E420", 
+    "docomo": "U+E70B", 
+    "kddi": "U+EAD4"
+  }, 
+  "U+FEB9E": {
+    "softbank": "U+E41F", 
+    "kddi": "U+EAD3"
+  }, 
+  "U+FEB9D": {
+    "softbank": "U+E41E", 
+    "docomo": "U+E695", 
+    "kddi": "U+EAD6"
+  }, 
+  "U+FEB9C": {
+    "softbank": "U+E231", 
+    "kddi": "U+E500"
+  }, 
+  "U+FEB9B": {
+    "softbank": "U+E230", 
+    "kddi": "U+E4FF"
+  }, 
+  "U+FEB9A": {
+    "softbank": "U+E22F", 
+    "kddi": "U+EA8E"
+  }, 
+  "U+FE7FC": {
+    "docomo": "U+E679"
+  }, 
+  "U+FE33A": {
+    "softbank": "U+E411", 
+    "docomo": "U+E72D", 
+    "kddi": "U+E473"
+  }, 
+  "U+FE33B": {
+    "softbank": "U+E40B", 
+    "docomo": "U+E757", 
+    "kddi": "U+EAC6"
+  }, 
+  "U+FE33C": {
+    "softbank": "U+E406", 
+    "docomo": "U+E72B", 
+    "kddi": "U+EAC2"
+  }, 
+  "U+FE33D": {
+    "softbank": "U+E416", 
+    "docomo": "U+E724", 
+    "kddi": "U+EB5D"
+  }, 
+  "U+FE33E": {
+    "softbank": "U+E40A", 
+    "docomo": "U+E721", 
+    "kddi": "U+EAC5"
+  }, 
+  "U+FE33F": {
+    "softbank": "U+E407", 
+    "docomo": "U+E6F3", 
+    "kddi": "U+EAC3"
+  }, 
+  "U+FE7FD": {
+    "softbank": "U+E124", 
+    "kddi": "U+E46D"
+  }, 
+  "U+FE510": {
+    "softbank": "U+E112", 
+    "docomo": "U+E685", 
+    "kddi": "U+E4CF"
+  }, 
+  "U+FE511": {
+    "softbank": "U+E34B", 
+    "docomo": "U+E686", 
+    "kddi": "U+E5A0"
+  }, 
+  "U+FE512": {
+    "softbank": "U+E033", 
+    "docomo": "U+E6A4", 
+    "kddi": "U+E4C9"
+  }, 
+  "U+FE513": {
+    "softbank": "U+E448", 
+    "kddi": "U+EAF0"
+  }, 
+  "U+FE514": {
+    "softbank": "U+E143", 
+    "kddi": "U+E5D9"
+  }, 
+  "U+FE515": {
+    "softbank": "U+E117", 
+    "kddi": "U+E5CC"
+  }, 
+  "U+FE516": {
+    "softbank": "U+E310", 
+    "kddi": "U+EA9B"
+  }, 
+  "U+FE517": {
+    "softbank": "U+E312", 
+    "kddi": "U+EA9C"
+  }, 
+  "U+FE518": {
+    "softbank": "U+E436", 
+    "kddi": "U+EAE3"
+  }, 
+  "U+FE519": {
+    "softbank": "U+E438", 
+    "kddi": "U+EAE4"
+  }, 
+  "U+FEE79": {
+    "softbank": "U+E256"
+  }, 
+  "U+FE51A": {
+    "softbank": "U+E439", 
+    "kddi": "U+EAE5"
+  }, 
+  "U+FE51B": {
+    "softbank": "U+E43A", 
+    "kddi": "U+EAE6"
+  }, 
+  "U+FE51C": {
+    "softbank": "U+E43B", 
+    "kddi": "U+EAE7"
+  }, 
+  "U+FE51D": {
+    "softbank": "U+E440", 
+    "kddi": "U+EAEB"
+  }, 
+  "U+FE51E": {
+    "softbank": "U+E442", 
+    "kddi": "U+EAED"
+  }, 
+  "U+FE51F": {
+    "softbank": "U+E445", 
+    "kddi": "U+EAEE"
+  }, 
+  "U+FE7DD": {
+    "softbank": "U+E42B", 
+    "kddi": "U+E4BB"
+  }, 
+  "U+FE338": {
+    "softbank": "U+E415", 
+    "docomo": "U+E6F0", 
+    "kddi": "U+E471"
+  }, 
+  "U+FE339": {
+    "softbank": "U+E413", 
+    "docomo": "U+E72E", 
+    "kddi": "U+EB69"
+  }, 
+  "U+FE7F9": {
+    "softbank": "U+E432", 
+    "kddi": "U+EB73"
+  }, 
+  "U+FE7F8": {
+    "softbank": "U+E137", 
+    "kddi": "U+E5D7"
+  }, 
+  "U+FE330": {
+    "softbank": "U+E057", 
+    "docomo": "U+E6F0", 
+    "kddi": "U+E471"
+  }, 
+  "U+FE331": {
+    "docomo": "U+E722"
+  }, 
+  "U+FE332": {
+    "softbank": "U+E40A", 
+    "docomo": "U+E72A", 
+    "kddi": "U+EAC5"
+  }, 
+  "U+FE333": {
+    "softbank": "U+E404", 
+    "docomo": "U+E753", 
+    "kddi": "U+EB80"
+  }, 
+  "U+FE334": {
+    "softbank": "U+E412", 
+    "docomo": "U+E72A", 
+    "kddi": "U+EB64"
+  }, 
+  "U+FE335": {
+    "softbank": "U+E056", 
+    "docomo": "U+E6F0", 
+    "kddi": "U+EACD"
+  }, 
+  "U+FE336": {
+    "softbank": "U+E414", 
+    "docomo": "U+E6F0", 
+    "kddi": "U+E4FB"
+  }, 
+  "U+FE337": {
+    "softbank": "U+E056", 
+    "docomo": "U+E6F0", 
+    "kddi": "U+EACD"
+  }, 
+  "U+FEB97": {
+    "softbank": "U+E00E", 
+    "docomo": "U+E727", 
+    "kddi": "U+E4F9"
+  }, 
+  "U+FEB96": {
+    "softbank": "U+E00D", 
+    "docomo": "U+E6FD", 
+    "kddi": "U+E4F3"
+  }, 
+  "U+FEB95": {
+    "softbank": "U+E012", 
+    "docomo": "U+E695", 
+    "kddi": "U+E5A7"
+  }, 
+  "U+FEB94": {
+    "softbank": "U+E011", 
+    "docomo": "U+E694", 
+    "kddi": "U+E5A6"
+  }, 
+  "U+FEB93": {
+    "softbank": "U+E010", 
+    "docomo": "U+E693", 
+    "kddi": "U+EB83"
+  }, 
+  "U+FEB92": {
+    "softbank": "U+E103", 
+    "docomo": "U+E6D3", 
+    "kddi": "U+EB71"
+  }, 
+  "U+FEB91": {
+    "docomo": "U+E735", 
+    "kddi": "U+EB0D"
+  }, 
+  "U+FEB90": {
+    "softbank": "U+E144", 
+    "docomo": "U+E6D9", 
+    "kddi": "U+EB0C"
+  }, 
+  "U+FEB99": {
+    "softbank": "U+E22E", 
+    "kddi": "U+EA8D"
+  }, 
+  "U+FEB98": {
+    "softbank": "U+E00F", 
+    "kddi": "U+E4F6"
+  }, 
+  "U+FE024": {
+    "softbank": "U+E02A", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE025": {
+    "softbank": "U+E02B", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE026": {
+    "softbank": "U+E02C", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE027": {
+    "softbank": "U+E02D", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE020": {
+    "softbank": "U+E026", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE021": {
+    "softbank": "U+E027", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE022": {
+    "softbank": "U+E028", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE023": {
+    "softbank": "U+E029", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE028": {
+    "softbank": "U+E02E", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE029": {
+    "softbank": "U+E02F", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE82D": {
+    "docomo": "U+E6E1", 
+    "kddi": "U+E52C"
+  }, 
+  "U+FEB14": {
+    "softbank": "U+E32B", 
+    "docomo": "U+E6EC", 
+    "kddi": "U+EAA8"
+  }, 
+  "U+FE82E": {
+    "softbank": "U+E21C", 
+    "docomo": "U+E6E2", 
+    "kddi": "U+E522"
+  }, 
+  "U+FEB8D": {
+    "softbank": "U+E114", 
+    "docomo": "U+E6DC", 
+    "kddi": "U+EB05"
+  }, 
+  "U+FEE33": {
+    "kddi": "U+EB02"
+  }, 
+  "U+FEB8E": {
+    "softbank": "U+E235", 
+    "kddi": "U+EB06"
+  }, 
+  "U+FE02D": {
+    "softbank": "U+E241", 
+    "docomo": "U+E648", 
+    "kddi": "U+E491"
+  }, 
+  "U+FE02E": {
+    "softbank": "U+E242", 
+    "docomo": "U+E649", 
+    "kddi": "U+E492"
+  }, 
+  "U+FE02F": {
+    "softbank": "U+E243", 
+    "docomo": "U+E64A", 
+    "kddi": "U+E493"
+  }, 
+  "U+FE02A": {
+    "softbank": "U+E02D", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE02B": {
+    "softbank": "U+E23F", 
+    "docomo": "U+E646", 
+    "kddi": "U+E48F"
+  }, 
+  "U+FE02C": {
+    "softbank": "U+E240", 
+    "docomo": "U+E647", 
+    "kddi": "U+E490"
+  }, 
+  "U+FEB77": {
+    "softbank": "U+E32E", 
+    "docomo": "U+E6FA", 
+    "kddi": "U+E46C"
+  }, 
+  "U+FEB8F": {
+    "kddi": "U+EB07"
+  }, 
+  "U+FEB26": {
+    "softbank": "U+E137", 
+    "docomo": "U+E72F", 
+    "kddi": "U+E484"
+  }, 
+  "U+FEB27": {
+    "softbank": "U+E24D", 
+    "docomo": "U+E70B", 
+    "kddi": "U+E5AD"
+  }, 
+  "U+FEB24": {
+    "softbank": "U+E203"
+  }, 
+  "U+FEB25": {
+    "softbank": "U+E207", 
+    "kddi": "U+EA83"
+  }, 
+  "U+FEB22": {
+    "docomo": "U+E6DE", 
+    "kddi": "U+EB2C"
+  }, 
+  "U+FEB23": {
+    "softbank": "U+E252", 
+    "docomo": "U+E737", 
+    "kddi": "U+E481"
+  }, 
+  "U+FEB20": {
+    "softbank": "U+E20A", 
+    "docomo": "U+E69B", 
+    "kddi": "U+E47F"
+  }, 
+  "U+FEB21": {
+    "docomo": "U+E6D7", 
+    "kddi": "U+E578"
+  }, 
+  "U+FEB28": {
+    "docomo": "U+E72F"
+  }, 
+  "U+FEB29": {
+    "softbank": "U+E24E", 
+    "docomo": "U+E731", 
+    "kddi": "U+E558"
+  }, 
+  "U+FE198": {
+    "softbank": "U+E31F", 
+    "docomo": "U+E675", 
+    "kddi": "U+EAA1"
+  }, 
+  "U+FEE44": {
+    "kddi": "U+EB81"
+  }, 
+  "U+FEE43": {
+    "kddi": "U+EB74"
+  }, 
+  "U+FEE42": {
+    "kddi": "U+EA9D"
+  }, 
+  "U+FEE41": {
+    "kddi": "U+E5B2"
+  }, 
+  "U+FE199": {
+    "softbank": "U+E320", 
+    "kddi": "U+EAA2"
+  }, 
+  "U+FE4C3": {
+    "softbank": "U+E03B", 
+    "docomo": "U+E740", 
+    "kddi": "U+E5BD"
+  }, 
+  "U+FE4C2": {
+    "softbank": "U+E30B", 
+    "docomo": "U+E74B", 
+    "kddi": "U+E4BD"
+  }, 
+  "U+FE4C1": {
+    "softbank": "U+E202", 
+    "docomo": "U+E661", 
+    "kddi": "U+E4A9"
+  }, 
+  "U+FE4C0": {
+    "softbank": "U+E508", 
+    "kddi": "U+EAF9"
+  }, 
+  "U+FE4C7": {
+    "kddi": "U+E572"
+  }, 
+  "U+FE4C6": {
+    "softbank": "U+E51D"
+  }, 
+  "U+FE800": {
+    "softbank": "U+E03C", 
+    "docomo": "U+E676", 
+    "kddi": "U+E503"
+  }, 
+  "U+FE4C4": {
+    "softbank": "U+E509", 
+    "kddi": "U+E4C0"
+  }, 
+  "U+FE965": {
+    "softbank": "U+E147", 
+    "kddi": "U+E4D1"
+  }, 
+  "U+FE964": {
+    "softbank": "U+E339", 
+    "docomo": "U+E74D", 
+    "kddi": "U+EAAF"
+  }, 
+  "U+FE4C9": {
+    "docomo": "U+E718", 
+    "kddi": "U+E587"
+  }, 
+  "U+FE4C8": {
+    "kddi": "U+EB6C"
+  }, 
+  "U+FE961": {
+    "softbank": "U+E342", 
+    "docomo": "U+E749", 
+    "kddi": "U+E4D5"
+  }, 
+  "U+FE837": {
+    "softbank": "U+E225", 
+    "kddi": "U+E5AC"
+  }, 
+  "U+FE808": {
+    "softbank": "U+E324", 
+    "docomo": "U+E6AC", 
+    "kddi": "U+E4BE"
+  }, 
+  "U+FE809": {
+    "softbank": "U+E503", 
+    "kddi": "U+E59D"
+  }, 
+  "U+FE82A": {
+    "softbank": "U+E43D", 
+    "kddi": "U+E5BB"
+  }, 
+  "U+FE1CF": {
+    "softbank": "U+E529", 
+    "kddi": "U+E48F"
+  }, 
+  "U+FE4F8": {
+    "softbank": "U+E23E", 
+    "kddi": "U+EA8F"
+  }, 
+  "U+FE1CD": {
+    "softbank": "U+E527", 
+    "kddi": "U+EB20"
+  }, 
+  "U+FE1CE": {
+    "softbank": "U+E528", 
+    "kddi": "U+E4D9"
+  }, 
+  "U+FE1CB": {
+    "softbank": "U+E525", 
+    "kddi": "U+EB1E"
+  }, 
+  "U+FE1CC": {
+    "softbank": "U+E526", 
+    "kddi": "U+EB1F"
+  }, 
+  "U+FE1CA": {
+    "softbank": "U+E524"
+  }, 
+  "U+FE987": {
+    "softbank": "U+E30C", 
+    "docomo": "U+E672", 
+    "kddi": "U+EA98"
+  }, 
+  "U+FE806": {
+    "docomo": "U+E67D", 
+    "kddi": "U+E59E"
+  }, 
+  "U+FE985": {
+    "softbank": "U+E30B", 
+    "docomo": "U+E74B", 
+    "kddi": "U+EA97"
+  }, 
+  "U+FE984": {
+    "softbank": "U+E338", 
+    "docomo": "U+E71E", 
+    "kddi": "U+EAAE"
+  }, 
+  "U+FE983": {
+    "softbank": "U+E047", 
+    "docomo": "U+E672", 
+    "kddi": "U+E4C3"
+  }, 
+  "U+FE982": {
+    "softbank": "U+E044", 
+    "docomo": "U+E671", 
+    "kddi": "U+E4C2"
+  }, 
+  "U+FE1C8": {
+    "softbank": "U+E521", 
+    "docomo": "U+E74F", 
+    "kddi": "U+E4E0"
+  }, 
+  "U+FE1C9": {
+    "softbank": "U+E522", 
+    "docomo": "U+E751", 
+    "kddi": "U+EB1D"
+  }, 
+  "U+FE1C6": {
+    "softbank": "U+E441", 
+    "kddi": "U+EAEC"
+  }, 
+  "U+FE1C7": {
+    "softbank": "U+E520", 
+    "kddi": "U+EB1B"
+  }, 
+  "U+FE1C4": {
+    "softbank": "U+E109", 
+    "kddi": "U+E4D9"
+  }, 
+  "U+FE1C5": {
+    "softbank": "U+E10A", 
+    "kddi": "U+E5C7"
+  }, 
+  "U+FE1C2": {
+    "softbank": "U+E053", 
+    "kddi": "U+E5C2"
+  }, 
+  "U+FE1C3": {
+    "softbank": "U+E054", 
+    "kddi": "U+E470"
+  }, 
+  "U+FE1C0": {
+    "softbank": "U+E050", 
+    "kddi": "U+E5C0"
+  }, 
+  "U+FE1C1": {
+    "softbank": "U+E051", 
+    "kddi": "U+E5C1"
+  }, 
+  "U+FE4CC": {
+    "softbank": "U+E007", 
+    "docomo": "U+E699", 
+    "kddi": "U+E5B7"
+  }, 
+  "U+FE4CB": {
+    "kddi": "U+E581"
+  }, 
+  "U+FE4CA": {
+    "softbank": "U+E116", 
+    "kddi": "U+E5CB"
+  }, 
+  "U+FE805": {
+    "softbank": "U+E503", 
+    "docomo": "U+E67C", 
+    "kddi": "U+EAF5"
+  }, 
+  "U+FE80B": {
+    "softbank": "U+E12D", 
+    "kddi": "U+E5D1"
+  }, 
+  "U+FE4CF": {
+    "softbank": "U+E006", 
+    "docomo": "U+E70E", 
+    "kddi": "U+E5B6"
+  }, 
+  "U+FE4CE": {
+    "docomo": "U+E69A", 
+    "kddi": "U+E4FE"
+  }, 
+  "U+FE4F5": {
+    "softbank": "U+E113", 
+    "kddi": "U+E50A"
+  }, 
+  "U+FE96E": {
+    "softbank": "U+E344", 
+    "kddi": "U+EAB8"
+  }, 
+  "U+FE802": {
+    "softbank": "U+E507", 
+    "docomo": "U+E677", 
+    "kddi": "U+E517"
+  }, 
+  "U+FE96F": {
+    "softbank": "U+E34C", 
+    "kddi": "U+EABD"
+  }, 
+  "U+FE96A": {
+    "softbank": "U+E33E", 
+    "docomo": "U+E74C", 
+    "kddi": "U+EAB4"
+  }, 
+  "U+FE527": {
+    "softbank": "U+E301", 
+    "docomo": "U+E689", 
+    "kddi": "U+EA92"
+  }, 
+  "U+FE96C": {
+    "softbank": "U+E341", 
+    "kddi": "U+EAB6"
+  }, 
+  "U+FE803": {
+    "softbank": "U+E30A", 
+    "docomo": "U+E67A", 
+    "kddi": "U+E508"
+  }, 
+  "U+FEB6A": {
+    "kddi": "U+E468"
+  }, 
+  "U+FE4C5": {
+    "softbank": "U+E50A"
+  }, 
+  "U+FE521": {
+    "kddi": "U+EB3D"
+  }, 
+  "U+FE801": {
+    "softbank": "U+E03D", 
+    "docomo": "U+E677", 
+    "kddi": "U+E517"
+  }, 
+  "U+FE4F1": {
+    "docomo": "U+E6AD"
+  }, 
+  "U+FEB2F": {
+    "softbank": "U+E22B", 
+    "docomo": "U+E739", 
+    "kddi": "U+EA8A"
+  }, 
+  "U+FEB2D": {
+    "softbank": "U+E24F", 
+    "docomo": "U+E736", 
+    "kddi": "U+E559"
+  }, 
+  "U+FEB2E": {
+    "docomo": "U+E738"
+  }, 
+  "U+FEB2B": {
+    "softbank": "U+E315", 
+    "docomo": "U+E734", 
+    "kddi": "U+E4F1"
+  }, 
+  "U+FE831": {
+    "softbank": "U+E21F", 
+    "docomo": "U+E6E5", 
+    "kddi": "U+E525"
+  }, 
+  "U+FEB2A": {
+    "softbank": "U+E537", 
+    "docomo": "U+E732", 
+    "kddi": "U+E54E"
+  }, 
+  "U+FE830": {
+    "softbank": "U+E21E", 
+    "docomo": "U+E6E4", 
+    "kddi": "U+E524"
+  }, 
+  "U+FE967": {
+    "softbank": "U+E33B", 
+    "kddi": "U+EAB1"
+  }, 
+  "U+FE966": {
+    "softbank": "U+E33A", 
+    "kddi": "U+EAB0"
+  }, 
+  "U+FE834": {
+    "softbank": "U+E222", 
+    "docomo": "U+E6E8", 
+    "kddi": "U+E528"
+  }, 
+  "U+FE960": {
+    "softbank": "U+E120", 
+    "docomo": "U+E673", 
+    "kddi": "U+E4D6"
+  }, 
+  "U+FE341": {
+    "softbank": "U+E107", 
+    "docomo": "U+E757", 
+    "kddi": "U+E5C5"
+  }, 
+  "U+FE340": {
+    "softbank": "U+E403", 
+    "docomo": "U+E720", 
+    "kddi": "U+EAC0"
+  }, 
+  "U+FE343": {
+    "softbank": "U+E402", 
+    "docomo": "U+E72C", 
+    "kddi": "U+EABF"
+  }, 
+  "U+FE342": {
+    "softbank": "U+E408", 
+    "docomo": "U+E701", 
+    "kddi": "U+EAC4"
+  }, 
+  "U+FE345": {
+    "softbank": "U+E401", 
+    "docomo": "U+E723", 
+    "kddi": "U+E5C6"
+  }, 
+  "U+FE344": {
+    "softbank": "U+E108", 
+    "docomo": "U+E723", 
+    "kddi": "U+E5C6"
+  }, 
+  "U+FE347": {
+    "softbank": "U+E405", 
+    "docomo": "U+E729", 
+    "kddi": "U+E5C3"
+  }, 
+  "U+FE346": {
+    "softbank": "U+E406", 
+    "docomo": "U+E72B", 
+    "kddi": "U+E474"
+  }, 
+  "U+FE349": {
+    "softbank": "U+E404", 
+    "docomo": "U+E753", 
+    "kddi": "U+EB7F"
+  }, 
+  "U+FE348": {
+    "softbank": "U+E057", 
+    "docomo": "U+E6F0", 
+    "kddi": "U+EB61"
+  }, 
+  "U+FE962": {
+    "softbank": "U+E046", 
+    "docomo": "U+E74A", 
+    "kddi": "U+E4D0"
+  }, 
+  "U+FE833": {
+    "softbank": "U+E221", 
+    "docomo": "U+E6E7", 
+    "kddi": "U+E527"
+  }, 
+  "U+FE969": {
+    "softbank": "U+E33D", 
+    "kddi": "U+EAB3"
+  }, 
+  "U+FE7D4": {
+    "softbank": "U+E018", 
+    "docomo": "U+E656", 
+    "kddi": "U+E4B6"
+  }, 
+  "U+FEB6B": {
+    "softbank": "U+E21B", 
+    "kddi": "U+E548"
+  }, 
+  "U+FE963": {
+    "softbank": "U+E340", 
+    "docomo": "U+E74C", 
+    "kddi": "U+E5B4"
+  }, 
+  "U+FE832": {
+    "softbank": "U+E220", 
+    "docomo": "U+E6E6", 
+    "kddi": "U+E526"
+  }, 
+  "U+FEE72": {
+    "softbank": "U+E53A"
+  }, 
+  "U+FE34A": {
+    "softbank": "U+E412", 
+    "docomo": "U+E72A", 
+    "kddi": "U+EB63"
+  }, 
+  "U+FE34C": {
+    "softbank": "U+E106", 
+    "docomo": "U+E726", 
+    "kddi": "U+EB65"
+  }, 
+  "U+FE34B": {
+    "softbank": "U+E418", 
+    "docomo": "U+E726", 
+    "kddi": "U+EB60"
+  }, 
+  "U+FE34E": {
+    "softbank": "U+E416", 
+    "docomo": "U+E724", 
+    "kddi": "U+EB5E"
+  }, 
+  "U+FE34D": {
+    "softbank": "U+E413", 
+    "docomo": "U+E72E", 
+    "kddi": "U+EB68"
+  }, 
+  "U+FE34F": {
+    "softbank": "U+E404", 
+    "docomo": "U+E753", 
+    "kddi": "U+EB6A"
+  }, 
+  "U+FEE78": {
+    "softbank": "U+E255"
+  }, 
+  "U+FE7E0": {
+    "softbank": "U+E434", 
+    "docomo": "U+E65C", 
+    "kddi": "U+E5BC"
+  }, 
+  "U+FE7D5": {
+    "softbank": "U+E013", 
+    "docomo": "U+E657", 
+    "kddi": "U+EAAC"
+  }, 
+  "U+FEB68": {
+    "softbank": "U+E32F", 
+    "kddi": "U+E48B"
+  }, 
+  "U+FEB69": {
+    "softbank": "U+E335", 
+    "kddi": "U+E48B"
+  }, 
+  "U+FE4F4": {
+    "softbank": "U+E05A", 
+    "kddi": "U+E4F5"
+  }, 
+  "U+FE986": {
+    "softbank": "U+E044", 
+    "docomo": "U+E756", 
+    "kddi": "U+E4C1"
+  }, 
+  "U+FE52E": {
+    "softbank": "U+E102", 
+    "docomo": "U+E665", 
+    "kddi": "U+E51B"
+  }, 
+  "U+FE52D": {
+    "softbank": "U+E101", 
+    "docomo": "U+E665", 
+    "kddi": "U+EB0A"
+  }, 
+  "U+FE4FF": {
+    "softbank": "U+E148", 
+    "docomo": "U+E683", 
+    "kddi": "U+E565"
+  }, 
+  "U+FE52F": {
+    "softbank": "U+E142", 
+    "kddi": "U+E511"
+  }, 
+  "U+FE52A": {
+    "softbank": "U+E103", 
+    "docomo": "U+E6CF", 
+    "kddi": "U+E591"
+  }, 
+  "U+FE4FA": {
+    "kddi": "U+E57F"
+  }, 
+  "U+FE4FB": {
+    "docomo": "U+E6FB", 
+    "kddi": "U+E583"
+  }, 
+  "U+FE52B": {
+    "softbank": "U+E103", 
+    "docomo": "U+E6CF", 
+    "kddi": "U+EB62"
+  }, 
+  "U+FE981": {
+    "softbank": "U+E045", 
+    "docomo": "U+E670", 
+    "kddi": "U+E597"
+  }, 
+  "U+FEB1F": {
+    "softbank": "U+E208", 
+    "docomo": "U+E680", 
+    "kddi": "U+E47E"
+  }, 
+  "U+FEB1E": {
+    "softbank": "U+E30E", 
+    "docomo": "U+E67F", 
+    "kddi": "U+E47D"
+  }, 
+  "U+FE980": {
+    "softbank": "U+E043", 
+    "docomo": "U+E66F", 
+    "kddi": "U+E4AC"
+  }, 
+  "U+FEB1C": {
+    "softbank": "U+E20D", 
+    "docomo": "U+E68F", 
+    "kddi": "U+E5A2"
+  }, 
+  "U+FEB1B": {
+    "softbank": "U+E20E", 
+    "docomo": "U+E68E", 
+    "kddi": "U+E5A1"
+  }, 
+  "U+FEB1A": {
+    "softbank": "U+E20C", 
+    "docomo": "U+E68D", 
+    "kddi": "U+EAA5"
+  }, 
+  "U+FE01A": {
+    "docomo": "U+E6B9"
+  }, 
+  "U+FEB86": {
+    "softbank": "U+E144", 
+    "docomo": "U+E6D9", 
+    "kddi": "U+E51C"
+  }, 
+  "U+FEB6C": {
+    "softbank": "U+E21A", 
+    "kddi": "U+E549"
+  }, 
+  "U+FE7F5": {
+    "softbank": "U+E03A", 
+    "docomo": "U+E66B", 
+    "kddi": "U+E571"
+  }, 
+  "U+FEB87": {
+    "softbank": "U+E145", 
+    "docomo": "U+E6D9", 
+    "kddi": "U+E51C"
+  }, 
+  "U+FEB19": {
+    "softbank": "U+E204", 
+    "docomo": "U+E6F8", 
+    "kddi": "U+E595"
+  }, 
+  "U+FEB18": {
+    "softbank": "U+E327", 
+    "docomo": "U+E6ED", 
+    "kddi": "U+E5AF"
+  }, 
+  "U+FEB17": {
+    "softbank": "U+E437", 
+    "docomo": "U+E6EC", 
+    "kddi": "U+EB54"
+  }, 
+  "U+FEB80": {
+    "kddi": "U+EB55"
+  }, 
+  "U+FEB15": {
+    "softbank": "U+E32C", 
+    "docomo": "U+E6EC", 
+    "kddi": "U+EAA9"
+  }, 
+  "U+FE988": {
+    "softbank": "U+E044", 
+    "docomo": "U+E671", 
+    "kddi": "U+EB3E"
+  }, 
+  "U+FEB13": {
+    "softbank": "U+E32A", 
+    "docomo": "U+E6EC", 
+    "kddi": "U+EAA7"
+  }, 
+  "U+FEB12": {
+    "softbank": "U+E329", 
+    "docomo": "U+E6EC", 
+    "kddi": "U+E4EA"
+  }, 
+  "U+FEB11": {
+    "softbank": "U+E328", 
+    "docomo": "U+E6ED", 
+    "kddi": "U+EB75"
+  }, 
+  "U+FEB10": {
+    "softbank": "U+E327", 
+    "docomo": "U+E6EC", 
+    "kddi": "U+EAA6"
+  }, 
+  "U+FE80F": {
+    "kddi": "U+E4C8"
+  }, 
+  "U+FE825": {
+    "softbank": "U+E034", 
+    "docomo": "U+E71B", 
+    "kddi": "U+E514"
+  }, 
+  "U+FEB83": {
+    "docomo": "U+E6DA", 
+    "kddi": "U+E55D"
+  }, 
+  "U+FE80D": {
+    "softbank": "U+E133", 
+    "kddi": "U+E46E"
+  }, 
+  "U+FE7F4": {
+    "softbank": "U+E432", 
+    "kddi": "U+EAE1"
+  }, 
+  "U+FEB42": {
+    "softbank": "U+E24C"
+  }, 
+  "U+FE80E": {
+    "softbank": "U+E42C", 
+    "kddi": "U+EADD"
+  }, 
+  "U+FE529": {
+    "softbank": "U+E103", 
+    "docomo": "U+E6D3", 
+    "kddi": "U+E521"
+  }, 
+  "U+FE528": {
+    "softbank": "U+E00B", 
+    "docomo": "U+E6D0", 
+    "kddi": "U+E520"
+  }, 
+  "U+FE839": {
+    "softbank": "U+E250", 
+    "kddi": "U+EA90"
+  }, 
+  "U+FE838": {
+    "softbank": "U+E20B", 
+    "kddi": "U+EA84"
+  }, 
+  "U+FE525": {
+    "softbank": "U+E00A", 
+    "docomo": "U+E688", 
+    "kddi": "U+E588"
+  }, 
+  "U+FE524": {
+    "softbank": "U+E009", 
+    "docomo": "U+E687", 
+    "kddi": "U+E51E"
+  }, 
+  "U+FE4F6": {
+    "softbank": "U+E11D", 
+    "kddi": "U+E47B"
+  }, 
+  "U+FE526": {
+    "softbank": "U+E104", 
+    "docomo": "U+E6CE", 
+    "kddi": "U+EB08"
+  }, 
+  "U+FE4F0": {
+    "softbank": "U+E323", 
+    "docomo": "U+E682", 
+    "kddi": "U+E49C"
+  }, 
+  "U+FE520": {
+    "kddi": "U+E46F"
+  }, 
+  "U+FE523": {
+    "softbank": "U+E009", 
+    "docomo": "U+E687", 
+    "kddi": "U+E596"
+  }, 
+  "U+FE522": {
+    "docomo": "U+E65A", 
+    "kddi": "U+E59B"
+  }, 
+  "U+FE4CD": {
+    "softbank": "U+E007", 
+    "docomo": "U+E699", 
+    "kddi": "U+EB2B"
+  }, 
+  "U+FEB3D": {
+    "softbank": "U+E226", 
+    "kddi": "U+E4F7"
+  }, 
+  "U+FE96D": {
+    "softbank": "U+E343", 
+    "kddi": "U+EAB7"
+  }, 
+  "U+FEB84": {
+    "docomo": "U+E6DB", 
+    "kddi": "U+E5AB"
+  }, 
+  "U+FEB85": {
+    "softbank": "U+E114", 
+    "docomo": "U+E6DC", 
+    "kddi": "U+E518"
+  }, 
+  "U+FE01C": {
+    "docomo": "U+E71C", 
+    "kddi": "U+E57B"
+  }, 
+  "U+FE01B": {
+    "docomo": "U+E71C", 
+    "kddi": "U+E47C"
+  }, 
+  "U+FE01E": {
+    "softbank": "U+E024", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FE01D": {
+    "docomo": "U+E71F", 
+    "kddi": "U+E57A"
+  }, 
+  "U+FEB82": {
+    "softbank": "U+E03F", 
+    "docomo": "U+E6D9", 
+    "kddi": "U+E519"
+  }, 
+  "U+FE01F": {
+    "softbank": "U+E025", 
+    "docomo": "U+E6BA", 
+    "kddi": "U+E594"
+  }, 
+  "U+FEB88": {
+    "kddi": "U+E55C"
+  }, 
+  "U+FEB89": {
+    "kddi": "U+EAFB"
+  }, 
+  "U+FE96B": {
+    "softbank": "U+E33F", 
+    "kddi": "U+EAB5"
+  }, 
+  "U+FE836": {
+    "softbank": "U+E224", 
+    "docomo": "U+E6EA", 
+    "kddi": "U+E52A"
+  }, 
+  "U+FE532": {
+    "kddi": "U+E4FD"
+  }, 
+  "U+FE011": {
+    "docomo": "U+E69C", 
+    "kddi": "U+E5A8"
+  }, 
+  "U+FE010": {
+    "softbank": "U+E44B", 
+    "docomo": "U+E6B3", 
+    "kddi": "U+E4BF"
+  }, 
+  "U+FE013": {
+    "softbank": "U+E04C", 
+    "docomo": "U+E69E", 
+    "kddi": "U+E5AA"
+  }, 
+  "U+FE012": {
+    "softbank": "U+E04C", 
+    "docomo": "U+E69D", 
+    "kddi": "U+E5A9"
+  }, 
+  "U+FE015": {
+    "docomo": "U+E6A0"
+  }, 
+  "U+FE014": {
+    "softbank": "U+E04C", 
+    "docomo": "U+E69F", 
+    "kddi": "U+E486"
+  }, 
+  "U+FE017": {
+    "softbank": "U+E446", 
+    "kddi": "U+EAEF"
+  }, 
+  "U+FE016": {
+    "softbank": "U+E04C", 
+    "docomo": "U+E69E", 
+    "kddi": "U+E489"
+  }, 
+  "U+FE019": {
+    "docomo": "U+E6B8"
+  }, 
+  "U+FE018": {
+    "docomo": "U+E6B7"
+  }, 
+  "U+FEB64": {
+    "softbank": "U+E21A", 
+    "docomo": "U+E69C", 
+    "kddi": "U+E54B"
+  }, 
+  "U+FEB67": {
+    "softbank": "U+E21B", 
+    "docomo": "U+E69C", 
+    "kddi": "U+E54B"
+  }, 
+  "U+FE826": {
+    "softbank": "U+E035", 
+    "docomo": "U+E71B", 
+    "kddi": "U+E514"
+  }, 
+  "U+FEB8C": {
+    "kddi": "U+EB04"
+  }, 
+  "U+FE4BA": {
+    "softbank": "U+E157", 
+    "docomo": "U+E73E", 
+    "kddi": "U+EA80"
+  }, 
+  "U+FE4BB": {
+    "softbank": "U+E037", 
+    "kddi": "U+E5BB"
+  }, 
+  "U+FE4BC": {
+    "softbank": "U+E121", 
+    "kddi": "U+E5CF"
+  }, 
+  "U+FE4BD": {
+    "softbank": "U+E504", 
+    "kddi": "U+EAF6"
+  }, 
+  "U+FE4BE": {
+    "softbank": "U+E505", 
+    "kddi": "U+EAF7"
+  }, 
+  "U+FE4BF": {
+    "softbank": "U+E506", 
+    "kddi": "U+EAF8"
+  }, 
+  "U+FE97B": {
+    "kddi": "U+EB4E"
+  }, 
+  "U+FE531": {
+    "softbank": "U+E14B", 
+    "kddi": "U+E4A8"
+  }, 
+  "U+FE97A": {
+    "kddi": "U+EB4D"
+  }, 
+  "U+FE97F": {
+    "kddi": "U+EB70"
+  }, 
+  "U+FE97D": {
+    "kddi": "U+EB56"
+  }, 
+  "U+FE97E": {
+    "kddi": "U+EB59"
+  }, 
+  "U+FEB5C": {
+    "softbank": "U+E331", 
+    "docomo": "U+E707", 
+    "kddi": "U+E4E6"
+  }, 
+  "U+FEB5B": {
+    "softbank": "U+E331", 
+    "docomo": "U+E706", 
+    "kddi": "U+E5B1"
+  }, 
+  "U+FEB5A": {
+    "docomo": "U+E705", 
+    "kddi": "U+E5B0"
+  }, 
+  "U+FEE40": {
+    "kddi": "U+E577"
+  }, 
+  "U+FEB5F": {
+    "softbank": "U+E407", 
+    "kddi": "U+EB5C"
+  }, 
+  "U+FEB5E": {
+    "softbank": "U+E14C", 
+    "kddi": "U+E4E9"
+  }, 
+  "U+FEB5D": {
+    "softbank": "U+E330", 
+    "docomo": "U+E708", 
+    "kddi": "U+E4F4"
+  }, 
+  "U+FEB2C": {
+    "docomo": "U+E735", 
+    "kddi": "U+EB79"
+  }, 
+  "U+FEB53": {
+    "softbank": "U+E333", 
+    "kddi": "U+E54F"
+  }, 
+  "U+FEB52": {
+    "kddi": "U+E53D"
+  }, 
+  "U+FEB51": {
+    "kddi": "U+E53C"
+  }, 
+  "U+FEB50": {
+    "kddi": "U+EB01"
+  }, 
+  "U+FEB57": {
+    "softbank": "U+E334", 
+    "docomo": "U+E6FC", 
+    "kddi": "U+E4E5"
+  }, 
+  "U+FEB56": {
+    "softbank": "U+E10F", 
+    "docomo": "U+E6FB", 
+    "kddi": "U+E476"
+  }, 
+  "U+FEB55": {
+    "docomo": "U+E6F8"
+  }, 
+  "U+FEB54": {
+    "kddi": "U+E554"
+  }, 
+  "U+FEB59": {
+    "softbank": "U+E13C", 
+    "docomo": "U+E701", 
+    "kddi": "U+E475"
+  }, 
+  "U+FEB58": {
+    "softbank": "U+E311", 
+    "docomo": "U+E6FE", 
+    "kddi": "U+E47A"
+  }, 
+  "U+FE835": {
+    "softbank": "U+E223", 
+    "docomo": "U+E6E9", 
+    "kddi": "U+E529"
+  }, 
+  "U+FE537": {
+    "softbank": "U+E11F", 
+    "docomo": "U+E6B2"
+  }, 
+  "U+FE7D9": {
+    "softbank": "U+E115", 
+    "docomo": "U+E733", 
+    "kddi": "U+E46B"
+  }, 
+  "U+FE4B0": {
+    "softbank": "U+E036", 
+    "docomo": "U+E663", 
+    "kddi": "U+E4AB"
+  }, 
+  "U+FE4B1": {
+    "softbank": "U+E036", 
+    "docomo": "U+E663", 
+    "kddi": "U+EB09"
+  }, 
+  "U+FE4B2": {
+    "softbank": "U+E038", 
+    "docomo": "U+E664", 
+    "kddi": "U+E4AD"
+  }, 
+  "U+FE4B3": {
+    "softbank": "U+E153", 
+    "docomo": "U+E665", 
+    "kddi": "U+E5DE"
+  }, 
+  "U+FE4B4": {
+    "softbank": "U+E155", 
+    "docomo": "U+E666", 
+    "kddi": "U+E5DF"
+  }, 
+  "U+FE4B5": {
+    "softbank": "U+E14D", 
+    "docomo": "U+E667", 
+    "kddi": "U+E4AA"
+  }, 
+  "U+FE4B6": {
+    "softbank": "U+E154", 
+    "docomo": "U+E668", 
+    "kddi": "U+E4A3"
+  }, 
+  "U+FE4B7": {
+    "softbank": "U+E158", 
+    "docomo": "U+E669", 
+    "kddi": "U+EA81"
+  }, 
+  "U+FE4B8": {
+    "softbank": "U+E501", 
+    "kddi": "U+EAF3"
+  }, 
+  "U+FE4B9": {
+    "softbank": "U+E156", 
+    "docomo": "U+E66A", 
+    "kddi": "U+E4A4"
+  }, 
+  "U+FE970": {
+    "softbank": "U+E34D", 
+    "kddi": "U+EABE"
+  }, 
+  "U+FE971": {
+    "softbank": "U+E43F", 
+    "kddi": "U+EAEA"
+  }, 
+  "U+FE976": {
+    "kddi": "U+EB3C"
+  }, 
+  "U+FE977": {
+    "kddi": "U+EB4A"
+  }, 
+  "U+FE974": {
+    "kddi": "U+EB3A"
+  }, 
+  "U+FE975": {
+    "kddi": "U+EB3B"
+  }, 
+  "U+FE534": {
+    "kddi": "U+E593"
+  }, 
+  "U+FE7D8": {
+    "docomo": "U+E712", 
+    "kddi": "U+E4B8"
+  }, 
+  "U+FE7FB": {
+    "softbank": "U+E122", 
+    "kddi": "U+E5D0"
+  }, 
+  "U+FE7FA": {
+    "softbank": "U+E123", 
+    "docomo": "U+E6F7", 
+    "kddi": "U+E4BC"
+  }, 
+  "U+FEB38": {
+    "softbank": "U+E214", 
+    "kddi": "U+EA85"
+  }, 
+  "U+FEB8A": {
+    "softbank": "U+E144", 
+    "docomo": "U+E6D9", 
+    "kddi": "U+EAFC"
+  }, 
+  "U+FEB40": {
+    "softbank": "U+E22C", 
+    "kddi": "U+EA8B"
+  }, 
+  "U+FE1D9": {
+    "softbank": "U+E019", 
+    "docomo": "U+E751", 
+    "kddi": "U+E4D3"
+  }, 
+  "U+FE1D8": {
+    "softbank": "U+E052", 
+    "docomo": "U+E6A1", 
+    "kddi": "U+E4DF"
+  }, 
+  "U+FEB8B": {
+    "kddi": "U+EB02"
+  }, 
+  "U+FEB41": {
+    "softbank": "U+E22D", 
+    "kddi": "U+EA8C"
+  }, 
+  "U+FE1D3": {
+    "softbank": "U+E52D", 
+    "kddi": "U+EB22"
+  }, 
+  "U+FE1D2": {
+    "softbank": "U+E52C", 
+    "kddi": "U+E4D7"
+  }, 
+  "U+FE1D1": {
+    "softbank": "U+E52B", 
+    "kddi": "U+EB21"
+  }, 
+  "U+FE1D0": {
+    "softbank": "U+E52A", 
+    "docomo": "U+E6A1", 
+    "kddi": "U+E4E1"
+  }, 
+  "U+FE1D7": {
+    "softbank": "U+E531", 
+    "kddi": "U+E4DA"
+  }, 
+  "U+FE1D6": {
+    "softbank": "U+E530", 
+    "kddi": "U+EB25"
+  }, 
+  "U+FE1D5": {
+    "softbank": "U+E52F", 
+    "kddi": "U+EB24"
+  }, 
+  "U+FE1D4": {
+    "softbank": "U+E52E", 
+    "kddi": "U+EB23"
+  }, 
+  "U+FE827": {
+    "softbank": "U+E111", 
+    "docomo": "U+E6F9", 
+    "kddi": "U+E5CA"
+  }, 
+  "U+FE7FE": {
+    "softbank": "U+E433", 
+    "kddi": "U+EAE2"
+  }, 
+  "U+FEB45": {
+    "softbank": "U+E333", 
+    "kddi": "U+E550"
+  }, 
+  "U+FEB46": {
+    "softbank": "U+E333", 
+    "kddi": "U+E551"
+  }, 
+  "U+FEB35": {
+    "softbank": "U+E13A", 
+    "kddi": "U+EB18"
+  }, 
+  "U+FEB47": {
+    "kddi": "U+E533"
+  }, 
+  "U+FE35B": {
+    "softbank": "U+E41D", 
+    "kddi": "U+EAD2"
+  }, 
+  "U+FE35A": {
+    "softbank": "U+E416", 
+    "docomo": "U+E6F1", 
+    "kddi": "U+EB88"
+  }, 
+  "U+FE05A": {
+    "kddi": "U+EB39"
+  }, 
+  "U+FEB81": {
+    "softbank": "U+E229", 
+    "docomo": "U+E6D8", 
+    "kddi": "U+EA88"
+  }, 
+  "U+FE05B": {
+    "softbank": "U+E345", 
+    "docomo": "U+E745", 
+    "kddi": "U+EB5A"
+  }, 
+  "U+FE19D": {
+    "softbank": "U+E004", 
+    "docomo": "U+E6F0", 
+    "kddi": "U+E4FC"
+  }, 
+  "U+FE19E": {
+    "softbank": "U+E005", 
+    "docomo": "U+E6F0", 
+    "kddi": "U+E4FA"
+  }, 
+  "U+FE19F": {
+    "kddi": "U+E501"
+  }, 
+  "U+FE19A": {
+    "docomo": "U+E6B1"
+  }, 
+  "U+FE19B": {
+    "softbank": "U+E001", 
+    "docomo": "U+E6F0", 
+    "kddi": "U+E4FC"
+  }, 
+  "U+FE19C": {
+    "softbank": "U+E002", 
+    "docomo": "U+E6F0", 
+    "kddi": "U+E4FA"
+  }, 
+  "U+FE055": {
+    "softbank": "U+E349", 
+    "kddi": "U+EABB"
+  }, 
+  "U+FE054": {
+    "softbank": "U+E348", 
+    "kddi": "U+E4CD"
+  }, 
+  "U+FE057": {
+    "kddi": "U+EB32"
+  }, 
+  "U+FE056": {
+    "softbank": "U+E34A", 
+    "kddi": "U+EABC"
+  }, 
+  "U+FE051": {
+    "softbank": "U+E345", 
+    "docomo": "U+E745", 
+    "kddi": "U+EAB9"
+  }, 
+  "U+FE050": {
+    "docomo": "U+E744", 
+    "kddi": "U+EB35"
+  }, 
+  "U+FE053": {
+    "softbank": "U+E347", 
+    "kddi": "U+E4D4"
+  }, 
+  "U+FE052": {
+    "softbank": "U+E346", 
+    "kddi": "U+EABA"
+  }, 
+  "U+FE194": {
+    "softbank": "U+E409", 
+    "docomo": "U+E728", 
+    "kddi": "U+EB47"
+  }, 
+  "U+FE195": {
+    "softbank": "U+E31C", 
+    "docomo": "U+E710", 
+    "kddi": "U+E509"
+  }, 
+  "U+FE196": {
+    "softbank": "U+E31D", 
+    "kddi": "U+EAA0"
+  }, 
+  "U+FE197": {
+    "softbank": "U+E31E", 
+    "kddi": "U+E50B"
+  }, 
+  "U+FE059": {
+    "kddi": "U+EB34"
+  }, 
+  "U+FE058": {
+    "kddi": "U+EB33"
+  }, 
+  "U+FE192": {
+    "softbank": "U+E41A", 
+    "kddi": "U+EAD0"
+  }, 
+  "U+FE193": {
+    "softbank": "U+E41C", 
+    "docomo": "U+E6F9", 
+    "kddi": "U+EAD1"
+  }, 
+  "U+FE97C": {
+    "kddi": "U+EB4F"
+  }, 
+  "U+FE358": {
+    "softbank": "U+E427", 
+    "kddi": "U+EB86"
+  }, 
+  "U+FE359": {
+    "softbank": "U+E403", 
+    "docomo": "U+E6F3", 
+    "kddi": "U+EB87"
+  }, 
+  "U+FE356": {
+    "kddi": "U+EB52"
+  }, 
+  "U+FE357": {
+    "softbank": "U+E012", 
+    "kddi": "U+EB85"
+  }, 
+  "U+FE354": {
+    "kddi": "U+EB50"
+  }, 
+  "U+FE355": {
+    "kddi": "U+EB51"
+  }, 
+  "U+FE352": {
+    "softbank": "U+E424", 
+    "docomo": "U+E70B", 
+    "kddi": "U+EAD8"
+  }, 
+  "U+FE353": {
+    "softbank": "U+E426", 
+    "kddi": "U+EAD9"
+  }, 
+  "U+FE350": {
+    "softbank": "U+E403", 
+    "docomo": "U+E6F3", 
+    "kddi": "U+EB66"
+  }, 
+  "U+FE351": {
+    "softbank": "U+E423", 
+    "docomo": "U+E72F", 
+    "kddi": "U+EAD7"
+  }, 
+  "U+FEB6F": {
+    "softbank": "U+E21B", 
+    "kddi": "U+E534"
+  }, 
+  "U+FE1DC": {
+    "kddi": "U+E5D4"
+  }, 
+  "U+FE1DB": {
+    "softbank": "U+E536", 
+    "docomo": "U+E698", 
+    "kddi": "U+E4EE"
+  }, 
+  "U+FE1DA": {
+    "kddi": "U+E4DD"
+  }, 
+  "U+FE83A": {
+    "softbank": "U+E251", 
+    "kddi": "U+EA91"
+  }, 
+  "U+FE1DF": {
+    "kddi": "U+EB46"
+  }, 
+  "U+FE1DE": {
+    "kddi": "U+EB3F"
+  }, 
+  "U+FE1DD": {
+    "softbank": "U+E523", 
+    "docomo": "U+E74F", 
+    "kddi": "U+E5DB"
+  }, 
+  "U+FEE12": {
+    "docomo": "U+E6D4"
+  }, 
+  "U+FEB6D": {
+    "softbank": "U+E21B", 
+    "kddi": "U+E531"
+  }, 
+  "U+FEE1C": {
+    "softbank": "U+E03D", 
+    "kddi": "U+E517"
+  }, 
+  "U+FEB6E": {
+    "softbank": "U+E21A", 
+    "kddi": "U+E532"
+  }, 
+  "U+FEE10": {
+    "docomo": "U+E6D1"
+  }, 
+  "U+FEE11": {
+    "docomo": "U+E6D2"
+  }, 
+  "U+FE804": {
+    "softbank": "U+E502", 
+    "docomo": "U+E67B", 
+    "kddi": "U+E59C"
+  }, 
+  "U+FEE13": {
+    "docomo": "U+E6D5"
+  }, 
+  "U+FEE14": {
+    "docomo": "U+E70C"
+  }, 
+  "U+FEE15": {
+    "docomo": "U+E70D"
+  }, 
+  "U+FEB16": {
+    "softbank": "U+E32D", 
+    "docomo": "U+E6EC", 
+    "kddi": "U+EAAA"
+  }, 
+  "U+FE978": {
+    "kddi": "U+EB4B"
+  }, 
+  "U+FE812": {
+    "kddi": "U+EB6F"
+  }, 
+  "U+FE4FC": {
+    "kddi": "U+E584"
+  }, 
+  "U+FE7E2": {
+    "softbank": "U+E435", 
+    "docomo": "U+E65D", 
+    "kddi": "U+E4B0"
+  }, 
+  "U+FE83C": {
+    "kddi": "U+E586"
+  }, 
+  "U+FE549": {
+    "kddi": "U+E56A"
+  }, 
+  "U+FE548": {
+    "softbank": "U+E301", 
+    "docomo": "U+E689", 
+    "kddi": "U+E564"
+  }, 
+  "U+FE547": {
+    "softbank": "U+E148", 
+    "docomo": "U+E683", 
+    "kddi": "U+E49D"
+  }, 
+  "U+FE546": {
+    "softbank": "U+E148", 
+    "docomo": "U+E683", 
+    "kddi": "U+E49F"
+  }, 
+  "U+FE545": {
+    "softbank": "U+E148", 
+    "docomo": "U+E683", 
+    "kddi": "U+E56B"
+  }, 
+  "U+FE544": {
+    "kddi": "U+E590"
+  }, 
+  "U+FE543": {
+    "kddi": "U+E58F"
+  }, 
+  "U+FE542": {
+    "kddi": "U+E563"
+  }, 
+  "U+FE541": {
+    "softbank": "U+E301", 
+    "docomo": "U+E689", 
+    "kddi": "U+E569"
+  }, 
+  "U+FE540": {
+    "softbank": "U+E301", 
+    "docomo": "U+E689", 
+    "kddi": "U+E561"
+  }, 
+  "U+FE7F3": {
+    "softbank": "U+E431", 
+    "kddi": "U+EAE0"
+  }, 
+  "U+FE7E1": {
+    "softbank": "U+E434", 
+    "docomo": "U+E65C", 
+    "kddi": "U+E5BC"
+  }, 
+  "U+FEB08": {
+    "docomo": "U+E70A", 
+    "kddi": "U+EB31"
+  }, 
+  "U+FEB09": {
+    "softbank": "U+E020", 
+    "kddi": "U+E483"
+  }, 
+  "U+FE7F2": {
+    "softbank": "U+E430", 
+    "kddi": "U+EADF"
+  }, 
+  "U+FEB04": {
+    "softbank": "U+E021", 
+    "docomo": "U+E702", 
+    "kddi": "U+E482"
+  }, 
+  "U+FE7E6": {
+    "softbank": "U+E159", 
+    "docomo": "U+E660", 
+    "kddi": "U+E4AF"
+  }, 
+  "U+FEB06": {
+    "docomo": "U+E704", 
+    "kddi": "U+EB30"
+  }, 
+  "U+FEB07": {
+    "docomo": "U+E709"
+  }, 
+  "U+FEB00": {
+    "kddi": "U+E542"
+  }, 
+  "U+FE7F1": {
+    "softbank": "U+E42F", 
+    "kddi": "U+E4B2"
+  }, 
+  "U+FEB02": {
+    "kddi": "U+E544"
+  }, 
+  "U+FE7E7": {
+    "softbank": "U+E150", 
+    "kddi": "U+E4A7"
+  }, 
+  "U+FE83B": {
+    "kddi": "U+E52B"
+  }, 
+  "U+FE7F0": {
+    "softbank": "U+E201", 
+    "docomo": "U+E733", 
+    "kddi": "U+EB72"
+  }, 
+  "U+FE7E4": {
+    "softbank": "U+E01B", 
+    "docomo": "U+E65E", 
+    "kddi": "U+E4B1"
+  }, 
+  "U+FE7F7": {
+    "softbank": "U+E14E", 
+    "docomo": "U+E66D", 
+    "kddi": "U+E46A"
+  }, 
+  "U+FE7E5": {
+    "softbank": "U+E42E", 
+    "docomo": "U+E65F", 
+    "kddi": "U+E4B1"
+  }, 
+  "U+FE7F6": {
+    "softbank": "U+E14F", 
+    "docomo": "U+E66C", 
+    "kddi": "U+E4A6"
+  }, 
+  "U+FE4E9": {
+    "softbank": "U+E50F", 
+    "kddi": "U+EB0F"
+  }, 
+  "U+FE4E8": {
+    "softbank": "U+E50E", 
+    "kddi": "U+EB0E"
+  }, 
+  "U+FE1AF": {
+    "softbank": "U+E04E", 
+    "kddi": "U+E5BF"
+  }, 
+  "U+FE539": {
+    "softbank": "U+E301", 
+    "docomo": "U+E719", 
+    "kddi": "U+E4A1"
+  }, 
+  "U+FE7DA": {
+    "softbank": "U+E017", 
+    "docomo": "U+E712", 
+    "kddi": "U+EB41"
+  }, 
+  "U+FE1AA": {
+    "softbank": "U+E51B", 
+    "kddi": "U+EB19"
+  }, 
+  "U+FE1AB": {
+    "softbank": "U+E51C", 
+    "kddi": "U+EB1A"
+  }, 
+  "U+FE1AC": {
+    "kddi": "U+EB44"
+  }, 
+  "U+FE4E1": {
+    "kddi": "U+E57C"
+  }, 
+  "U+FE4E0": {
+    "softbank": "U+E12F", 
+    "docomo": "U+E715", 
+    "kddi": "U+E579"
+  }, 
+  "U+FE4E3": {
+    "softbank": "U+E12F", 
+    "docomo": "U+E715", 
+    "kddi": "U+E585"
+  }, 
+  "U+FE4E2": {
+    "docomo": "U+E6D6", 
+    "kddi": "U+E57D"
+  }, 
+  "U+FE4E5": {
+    "softbank": "U+E50B", 
+    "kddi": "U+E4CC"
+  }, 
+  "U+FE4E4": {
+    "kddi": "U+EB5B"
+  }, 
+  "U+FE4E7": {
+    "softbank": "U+E50D", 
+    "kddi": "U+EAFA"
+  }, 
+  "U+FE4E6": {
+    "softbank": "U+E50C", 
+    "kddi": "U+E573"
+  }, 
+  "U+FE1A4": {
+    "softbank": "U+E515", 
+    "kddi": "U+EB13"
+  }, 
+  "U+FE1A5": {
+    "softbank": "U+E516", 
+    "kddi": "U+EB14"
+  }, 
+  "U+FE1A6": {
+    "softbank": "U+E517", 
+    "kddi": "U+EB15"
+  }, 
+  "U+FE1A7": {
+    "softbank": "U+E518", 
+    "kddi": "U+EB16"
+  }, 
+  "U+FE1A0": {
+    "softbank": "U+E428"
+  }, 
+  "U+FE1A1": {
+    "softbank": "U+E152", 
+    "kddi": "U+E5DD"
+  }, 
+  "U+FE1A2": {
+    "softbank": "U+E429", 
+    "kddi": "U+EADB"
+  }, 
+  "U+FE1A3": {
+    "kddi": "U+EAE9"
+  }, 
+  "U+FE4EA": {
+    "softbank": "U+E510", 
+    "kddi": "U+EB10"
+  }, 
+  "U+FE53C": {
+    "softbank": "U+E316", 
+    "kddi": "U+E582"
+  }, 
+  "U+FE4EC": {
+    "softbank": "U+E512", 
+    "kddi": "U+E5D6"
+  }, 
+  "U+FE4EB": {
+    "softbank": "U+E511", 
+    "kddi": "U+E5D5"
+  }, 
+  "U+FE1A8": {
+    "softbank": "U+E519", 
+    "kddi": "U+EB17"
+  }, 
+  "U+FE1A9": {
+    "softbank": "U+E51A", 
+    "kddi": "U+EB18"
+  }, 
+  "U+FE53D": {
+    "softbank": "U+E316", 
+    "kddi": "U+E562"
+  }, 
+  "U+FE53E": {
+    "softbank": "U+E313", 
+    "docomo": "U+E675", 
+    "kddi": "U+E516"
+  }, 
+  "U+FEB34": {
+    "softbank": "U+E139"
+  }, 
+  "U+FEB0D": {
+    "softbank": "U+E327", 
+    "docomo": "U+E6ED", 
+    "kddi": "U+EB75"
+  }, 
+  "U+FEB0E": {
+    "softbank": "U+E023", 
+    "docomo": "U+E6EE", 
+    "kddi": "U+E477"
+  }, 
+  "U+FEB0F": {
+    "softbank": "U+E327", 
+    "docomo": "U+E6EF", 
+    "kddi": "U+E478"
+  }, 
+  "U+FE821": {
+    "softbank": "U+E141", 
+    "kddi": "U+E511"
+  }, 
+  "U+FEB0A": {
+    "softbank": "U+E336", 
+    "kddi": "U+E483"
+  }, 
+  "U+FEB0B": {
+    "softbank": "U+E337", 
+    "docomo": "U+E702", 
+    "kddi": "U+E482"
+  }, 
+  "U+FEB0C": {
+    "softbank": "U+E022", 
+    "docomo": "U+E6EC", 
+    "kddi": "U+E595"
+  }, 
+  "U+FE54F": {
+    "softbank": "U+E148", 
+    "docomo": "U+E683", 
+    "kddi": "U+E56E"
+  }, 
+  "U+FE54E": {
+    "kddi": "U+E56D"
+  }, 
+  "U+FE54D": {
+    "softbank": "U+E148", 
+    "docomo": "U+E683", 
+    "kddi": "U+E56C"
+  }, 
+  "U+FE54C": {
+    "kddi": "U+E576"
+  }, 
+  "U+FE54B": {
+    "softbank": "U+E14A", 
+    "kddi": "U+E575"
+  }, 
+  "U+FE54A": {
+    "softbank": "U+E14A", 
+    "kddi": "U+E574"
+  }, 
+  "U+FE972": {
+    "kddi": "U+E4C4"
+  }, 
+  "U+FE008": {
+    "softbank": "U+E44B", 
+    "docomo": "U+E6B3", 
+    "kddi": "U+EAF1"
+  }, 
+  "U+FE009": {
+    "softbank": "U+E04D", 
+    "docomo": "U+E63E", 
+    "kddi": "U+EAF4"
+  }, 
+  "U+FE006": {
+    "docomo": "U+E644", 
+    "kddi": "U+E598"
+  }, 
+  "U+FE007": {
+    "softbank": "U+E43C", 
+    "docomo": "U+E645", 
+    "kddi": "U+EAE8"
+  }, 
+  "U+FE004": {
+    "softbank": "U+E13D", 
+    "docomo": "U+E642", 
+    "kddi": "U+E487"
+  }, 
+  "U+FE005": {
+    "softbank": "U+E443", 
+    "docomo": "U+E643", 
+    "kddi": "U+E469"
+  }, 
+  "U+FE002": {
+    "softbank": "U+E04B", 
+    "docomo": "U+E640", 
+    "kddi": "U+E48C"
+  }, 
+  "U+FE003": {
+    "softbank": "U+E048", 
+    "docomo": "U+E641", 
+    "kddi": "U+E485"
+  }, 
+  "U+FE000": {
+    "softbank": "U+E04A", 
+    "docomo": "U+E63E", 
+    "kddi": "U+E488"
+  }, 
+  "U+FE001": {
+    "softbank": "U+E049", 
+    "docomo": "U+E63F", 
+    "kddi": "U+E48D"
+  }, 
+  "U+FEBA1": {
+    "softbank": "U+E422", 
+    "docomo": "U+E695", 
+    "kddi": "U+EAD6"
+  }, 
+  "U+FEBA0": {
+    "softbank": "U+E421", 
+    "docomo": "U+E700", 
+    "kddi": "U+EAD5"
+  }, 
+  "U+FE4F7": {
+    "softbank": "U+E23E", 
+    "kddi": "U+EA8F"
+  }, 
+  "U+FE80C": {
+    "softbank": "U+E130", 
+    "kddi": "U+E4C5"
+  }, 
+  "U+FE00F": {
+    "kddi": "U+E48E"
+  }, 
+  "U+FE00D": {
+    "softbank": "U+E44C", 
+    "kddi": "U+EAF2"
+  }, 
+  "U+FE00E": {
+    "kddi": "U+E48A"
+  }, 
+  "U+FE00B": {
+    "softbank": "U+E146", 
+    "kddi": "U+E5DA"
+  }, 
+  "U+FE00C": {
+    "softbank": "U+E44A", 
+    "docomo": "U+E63E", 
+    "kddi": "U+E5DA"
+  }, 
+  "U+FE00A": {
+    "softbank": "U+E449", 
+    "docomo": "U+E63E", 
+    "kddi": "U+EAF4"
+  }, 
+  "U+FE50C": {
+    "softbank": "U+E533", 
+    "kddi": "U+EB27"
+  }, 
+  "U+FE50B": {
+    "softbank": "U+E532", 
+    "kddi": "U+EB26"
+  }, 
+  "U+FE50A": {
+    "softbank": "U+E30F", 
+    "kddi": "U+EA9A"
+  }, 
+  "U+FEB43": {
+    "softbank": "U+E30D", 
+    "kddi": "U+EA99"
+  }, 
+  "U+FEB44": {
+    "softbank": "U+E332", 
+    "docomo": "U+E6A0", 
+    "kddi": "U+EAAD"
+  }, 
+  "U+FE50F": {
+    "softbank": "U+E314", 
+    "docomo": "U+E684", 
+    "kddi": "U+E59F"
+  }, 
+  "U+FE50E": {
+    "softbank": "U+E535", 
+    "kddi": "U+EB28"
+  }, 
+  "U+FE50D": {
+    "softbank": "U+E534", 
+    "kddi": "U+EB29"
+  }, 
+  "U+FEB48": {
+    "docomo": "U+E738", 
+    "kddi": "U+E541"
+  }, 
+  "U+FEB49": {
+    "kddi": "U+E557"
+  }, 
+  "U+FEAFE": {
+    "softbank": "U+E23C", 
+    "kddi": "U+E530"
+  }, 
+  "U+FEAFD": {
+    "softbank": "U+E23B", 
+    "kddi": "U+E52D"
+  }, 
+  "U+FEAFF": {
+    "softbank": "U+E23D", 
+    "kddi": "U+E52F"
+  }, 
+  "U+FEAFA": {
+    "softbank": "U+E234", 
+    "kddi": "U+E552"
+  }, 
+  "U+FEAFC": {
+    "softbank": "U+E23A", 
+    "kddi": "U+E52E"
+  }, 
+  "U+FEAFB": {
+    "softbank": "U+E235", 
+    "kddi": "U+E553"
+  }, 
+  "U+FE4F2": {
+    "softbank": "U+E325", 
+    "docomo": "U+E713", 
+    "kddi": "U+E512"
+  }, 
+  "U+FE4F3": {
+    "docomo": "U+E714"
+  }, 
+  "U+FE1E0": {
+    "softbank": "U+E10B", 
+    "docomo": "U+E755", 
+    "kddi": "U+EB48"
+  }, 
+  "U+FE1E1": {
+    "kddi": "U+EB57"
+  }, 
+  "U+FE1E2": {
+    "kddi": "U+EB58"
+  }, 
+  "U+FE1E3": {
+    "kddi": "U+E492"
+  }, 
+  "U+FEAF5": {
+    "softbank": "U+E238", 
+    "docomo": "U+E700", 
+    "kddi": "U+EB2E"
+  }, 
+  "U+FEAF4": {
+    "softbank": "U+E236", 
+    "docomo": "U+E6F5", 
+    "kddi": "U+EB2D"
+  }, 
+  "U+FEAF7": {
+    "docomo": "U+E73D", 
+    "kddi": "U+EB7B"
+  }, 
+  "U+FEAF6": {
+    "docomo": "U+E73C", 
+    "kddi": "U+EB7A"
+  }, 
+  "U+FEAF1": {
+    "softbank": "U+E238", 
+    "docomo": "U+E696", 
+    "kddi": "U+E54D"
+  }, 
+  "U+FEAF0": {
+    "softbank": "U+E236", 
+    "docomo": "U+E678", 
+    "kddi": "U+E555"
+  }, 
+  "U+FEAF3": {
+    "softbank": "U+E239", 
+    "docomo": "U+E6A5", 
+    "kddi": "U+E556"
+  }, 
+  "U+FEAF2": {
+    "softbank": "U+E237", 
+    "docomo": "U+E697", 
+    "kddi": "U+E54C"
+  }, 
+  "U+FEAF9": {
+    "softbank": "U+E233", 
+    "kddi": "U+E540"
+  }, 
+  "U+FEAF8": {
+    "softbank": "U+E232", 
+    "kddi": "U+E53F"
+  }, 
+  "U+FE53F": {
+    "kddi": "U+E560"
+  }, 
+  "U+FE503": {
+    "softbank": "U+E148", 
+    "docomo": "U+E683", 
+    "kddi": "U+E56F"
+  }, 
+  "U+FE502": {
+    "softbank": "U+E148", 
+    "docomo": "U+E683", 
+    "kddi": "U+E568"
+  }, 
+  "U+FE501": {
+    "softbank": "U+E148", 
+    "docomo": "U+E683", 
+    "kddi": "U+E567"
+  }, 
+  "U+FE500": {
+    "softbank": "U+E148", 
+    "docomo": "U+E683", 
+    "kddi": "U+E566"
+  }, 
+  "U+FE507": {
+    "softbank": "U+E140", 
+    "docomo": "U+E66E", 
+    "kddi": "U+E4A5"
+  }, 
+  "U+FE506": {
+    "softbank": "U+E151", 
+    "docomo": "U+E66E", 
+    "kddi": "U+E4A5"
+  }, 
+  "U+FE505": {
+    "softbank": "U+E13F", 
+    "docomo": "U+E6F7", 
+    "kddi": "U+E5D8"
+  }, 
+  "U+FE504": {
+    "kddi": "U+E51D"
+  }, 
+  "U+FE509": {
+    "softbank": "U+E13B", 
+    "kddi": "U+E510"
+  }, 
+  "U+FE508": {
+    "softbank": "U+E309", 
+    "docomo": "U+E66E", 
+    "kddi": "U+E4A5"
+  }, 
+  "U+FE042": {
+    "softbank": "U+E119", 
+    "docomo": "U+E747", 
+    "kddi": "U+E5CD"
+  }, 
+  "U+FE043": {
+    "softbank": "U+E447", 
+    "kddi": "U+E5CD"
+  }, 
+  "U+FE040": {
+    "softbank": "U+E030", 
+    "docomo": "U+E748", 
+    "kddi": "U+E4CA"
+  }, 
+  "U+FE041": {
+    "softbank": "U+E032", 
+    "kddi": "U+E5BA"
+  }, 
+  "U+FE046": {
+    "softbank": "U+E305", 
+    "kddi": "U+E4E3"
+  }, 
+  "U+FE047": {
+    "softbank": "U+E307", 
+    "kddi": "U+E4E2"
+  }, 
+  "U+FE044": {
+    "softbank": "U+E209", 
+    "kddi": "U+E480"
+  }, 
+  "U+FE045": {
+    "softbank": "U+E303", 
+    "kddi": "U+EA94"
+  }, 
+  "U+FE048": {
+    "softbank": "U+E308", 
+    "kddi": "U+EA96"
+  }, 
+  "U+FE049": {
+    "softbank": "U+E444"
+  }, 
+  "U+FE329": {
+    "softbank": "U+E105", 
+    "docomo": "U+E728", 
+    "kddi": "U+E4E7"
+  }, 
+  "U+FE328": {
+    "softbank": "U+E404", 
+    "docomo": "U+E753", 
+    "kddi": "U+EAC1"
+  }, 
+  "U+FE80A": {
+    "docomo": "U+E68B", 
+    "kddi": "U+E4C6"
+  }, 
+  "U+FE323": {
+    "softbank": "U+E058", 
+    "docomo": "U+E6F2", 
+    "kddi": "U+EAC0"
+  }, 
+  "U+FE322": {
+    "softbank": "U+E410", 
+    "docomo": "U+E6F4", 
+    "kddi": "U+EACA"
+  }, 
+  "U+FE321": {
+    "softbank": "U+E403", 
+    "docomo": "U+E6F3", 
+    "kddi": "U+EB67"
+  }, 
+  "U+FE320": {
+    "softbank": "U+E059", 
+    "docomo": "U+E6F1", 
+    "kddi": "U+E472"
+  }, 
+  "U+FE327": {
+    "softbank": "U+E106", 
+    "docomo": "U+E726", 
+    "kddi": "U+E5C4"
+  }, 
+  "U+FE326": {
+    "softbank": "U+E40E", 
+    "docomo": "U+E725", 
+    "kddi": "U+EAC9"
+  }, 
+  "U+FE325": {
+    "softbank": "U+E40F", 
+    "docomo": "U+E723", 
+    "kddi": "U+EACB"
+  }, 
+  "U+FE324": {
+    "softbank": "U+E406", 
+    "docomo": "U+E6F4", 
+    "kddi": "U+E5AE"
+  }, 
+  "U+FE03F": {
+    "softbank": "U+E118", 
+    "docomo": "U+E747", 
+    "kddi": "U+E4CE"
+  }, 
+  "U+FE03E": {
+    "softbank": "U+E110", 
+    "docomo": "U+E746", 
+    "kddi": "U+EB7D"
+  }, 
+  "U+FE03D": {
+    "softbank": "U+E304", 
+    "docomo": "U+E743", 
+    "kddi": "U+E4E4"
+  }, 
+  "U+FE03C": {
+    "softbank": "U+E110", 
+    "docomo": "U+E741", 
+    "kddi": "U+E513"
+  }, 
+  "U+FE03B": {
+    "softbank": "U+E44B", 
+    "docomo": "U+E6B3", 
+    "kddi": "U+EB5F"
+  }, 
+  "U+FE03A": {
+    "kddi": "U+EB53"
+  }, 
+  "U+FEB4A": {
+    "kddi": "U+E55E"
+  }, 
+  "U+FEB4B": {
+    "kddi": "U+E58A"
+  }, 
+  "U+FEB01": {
+    "kddi": "U+E543"
+  }, 
+  "U+FEB4C": {
+    "kddi": "U+E58C"
+  }, 
+  "U+FEB4D": {
+    "kddi": "U+E58D"
+  }, 
+  "U+FEB03": {
+    "kddi": "U+E545"
+  }, 
+  "U+FEB4E": {
+    "kddi": "U+E58E"
+  }, 
+  "U+FEB4F": {
+    "kddi": "U+E4E8"
+  }, 
+  "U+FEE73": {
+    "softbank": "U+E53B"
+  }, 
+  "U+FEB62": {
+    "softbank": "U+E206", 
+    "docomo": "U+E6F8", 
+    "kddi": "U+E53E"
+  }, 
+  "U+FE037": {
+    "softbank": "U+E24B", 
+    "kddi": "U+E49B"
+  }, 
+  "U+FE036": {
+    "softbank": "U+E24A", 
+    "docomo": "U+E651", 
+    "kddi": "U+E49A"
+  }, 
+  "U+FE035": {
+    "softbank": "U+E249", 
+    "docomo": "U+E650", 
+    "kddi": "U+E499"
+  }, 
+  "U+FE034": {
+    "softbank": "U+E248", 
+    "docomo": "U+E64F", 
+    "kddi": "U+E498"
+  }, 
+  "U+FE033": {
+    "softbank": "U+E247", 
+    "docomo": "U+E64E", 
+    "kddi": "U+E497"
+  }, 
+  "U+FE032": {
+    "softbank": "U+E246", 
+    "docomo": "U+E64D", 
+    "kddi": "U+E496"
+  }, 
+  "U+FE031": {
+    "softbank": "U+E245", 
+    "docomo": "U+E64C", 
+    "kddi": "U+E495"
+  }, 
+  "U+FE030": {
+    "softbank": "U+E244", 
+    "docomo": "U+E64B", 
+    "kddi": "U+E494"
+  }, 
+  "U+FE039": {
+    "kddi": "U+E5B3"
+  }, 
+  "U+FE038": {
+    "softbank": "U+E43E", 
+    "docomo": "U+E73F", 
+    "kddi": "U+EB7C"
+  }, 
+  "U+FE32C": {
+    "softbank": "U+E418", 
+    "docomo": "U+E726", 
+    "kddi": "U+EACF"
+  }, 
+  "U+FE32B": {
+    "softbank": "U+E056", 
+    "docomo": "U+E752", 
+    "kddi": "U+EACD"
+  }, 
+  "U+FE32A": {
+    "softbank": "U+E409", 
+    "docomo": "U+E728", 
+    "kddi": "U+E4E7"
+  }, 
+  "U+FE32F": {
+    "softbank": "U+E40D", 
+    "docomo": "U+E72A", 
+    "kddi": "U+EAC8"
+  }, 
+  "U+FE32E": {
+    "softbank": "U+E40C", 
+    "kddi": "U+EAC7"
+  }, 
+  "U+FE32D": {
+    "softbank": "U+E417", 
+    "docomo": "U+E726", 
+    "kddi": "U+EACE"
+  }, 
+  "U+FE04B": {
+    "kddi": "U+EB37"
+  }, 
+  "U+FE04C": {
+    "kddi": "U+EB38"
+  }, 
+  "U+FE04A": {
+    "kddi": "U+EB36"
+  }, 
+  "U+FE04F": {
+    "docomo": "U+E742", 
+    "kddi": "U+E4D2"
+  }, 
+  "U+FE04D": {
+    "softbank": "U+E305", 
+    "kddi": "U+EB49"
+  }, 
+  "U+FE04E": {
+    "softbank": "U+E110", 
+    "docomo": "U+E741", 
+    "kddi": "U+EB82"
+  }, 
+  "U+FE81A": {
+    "softbank": "U+E326", 
+    "docomo": "U+E6FF", 
+    "kddi": "U+EACC"
+  }, 
+  "U+FE81C": {
+    "softbank": "U+E12A", 
+    "docomo": "U+E68A", 
+    "kddi": "U+E502"
+  }, 
+  "U+FE81B": {
+    "softbank": "U+E12C"
+  }, 
+  "U+FE81E": {
+    "softbank": "U+E127", 
+    "docomo": "U+E68C", 
+    "kddi": "U+E50C"
+  }, 
+  "U+FE81D": {
+    "softbank": "U+E126", 
+    "docomo": "U+E68C", 
+    "kddi": "U+E50C"
+  }, 
+  "U+FE81F": {
+    "softbank": "U+E128", 
+    "kddi": "U+E5B9"
+  }, 
+  "U+FE4DF": {
+    "softbank": "U+E14A", 
+    "kddi": "U+E5DC"
+  }, 
+  "U+FE4DD": {
+    "softbank": "U+E12F", 
+    "docomo": "U+E715", 
+    "kddi": "U+E4C7"
+  }, 
+  "U+FE4DE": {
+    "softbank": "U+E149"
+  }, 
+  "U+FE4DB": {
+    "softbank": "U+E006", 
+    "docomo": "U+E70E", 
+    "kddi": "U+E50D"
+  }, 
+  "U+FE4DC": {
+    "docomo": "U+E70F", 
+    "kddi": "U+E504"
+  }, 
+  "U+FE4DA": {
+    "softbank": "U+E322", 
+    "kddi": "U+EAA4"
+  }, 
+  "U+FE7FF": {
+    "softbank": "U+E019", 
+    "docomo": "U+E751", 
+    "kddi": "U+EB42"
+  }, 
+  "U+FE1AD": {
+    "kddi": "U+EB45"
+  }, 
+  "U+FE1AE": {
+    "softbank": "U+E11B", 
+    "kddi": "U+E4CB"
+  }, 
+  "U+FEB3A": {
+    "softbank": "U+E216"
+  }, 
+  "U+FEB3C": {
+    "softbank": "U+E218"
+  }, 
+  "U+FEB3B": {
+    "softbank": "U+E217"
+  }, 
+  "U+FEB3E": {
+    "softbank": "U+E227", 
+    "kddi": "U+EA86"
+  }, 
+  "U+FE538": {
+    "softbank": "U+E00C", 
+    "docomo": "U+E716", 
+    "kddi": "U+E5B8"
+  }, 
+  "U+FEB3F": {
+    "softbank": "U+E228", 
+    "kddi": "U+EA87"
+  }, 
+  "U+FE4FD": {
+    "docomo": "U+E70A", 
+    "kddi": "U+E55F"
+  }, 
+  "U+FE7DF": {
+    "softbank": "U+E01E", 
+    "docomo": "U+E65B", 
+    "kddi": "U+E4B5"
+  }, 
+  "U+FEB63": {
+    "softbank": "U+E219", 
+    "docomo": "U+E69C", 
+    "kddi": "U+E54A"
+  }, 
+  "U+FE828": {
+    "softbank": "U+E306", 
+    "kddi": "U+EA95"
+  }, 
+  "U+FEB60": {
+    "softbank": "U+E32E", 
+    "docomo": "U+E6FA", 
+    "kddi": "U+EAAB"
+  }, 
+  "U+FE829": {
+    "softbank": "U+E425", 
+    "docomo": "U+E6ED", 
+    "kddi": "U+EADA"
+  }, 
+  "U+FEB61": {
+    "softbank": "U+E205", 
+    "docomo": "U+E6F8", 
+    "kddi": "U+E479"
+  }, 
+  "U+FE7DC": {
+    "softbank": "U+E134", 
+    "docomo": "U+E754", 
+    "kddi": "U+E4D8"
+  }, 
+  "U+FEB66": {
+    "softbank": "U+E219", 
+    "docomo": "U+E69C", 
+    "kddi": "U+E53B"
+  }, 
+  "U+FE7DB": {
+    "softbank": "U+E131", 
+    "kddi": "U+E5D3"
+  }, 
+  "U+FE550": {
+    "kddi": "U+E570"
+  }, 
+  "U+FE551": {
+    "kddi": "U+E4A2"
+  }, 
+  "U+FE552": {
+    "softbank": "U+E301", 
+    "docomo": "U+E689", 
+    "kddi": "U+EB0B"
+  }, 
+  "U+FE553": {
+    "softbank": "U+E536", 
+    "docomo": "U+E698", 
+    "kddi": "U+EB2A"
+  }, 
+  "U+FEB39": {
+    "softbank": "U+E215"
+  }, 
+  "U+FE824": {
+    "docomo": "U+E717", 
+    "kddi": "U+EB78"
+  }, 
+  "U+FE979": {
+    "kddi": "U+EB4C"
+  }, 
+  "U+FE52C": {
+    "softbank": "U+E101", 
+    "docomo": "U+E665", 
+    "kddi": "U+E51B"
+  }, 
+  "U+FE533": {
+    "kddi": "U+E592"
+  }, 
+  "U+FEB31": {
+    "softbank": "U+E22A", 
+    "docomo": "U+E73B", 
+    "kddi": "U+EA89"
+  }, 
+  "U+FEB30": {
+    "docomo": "U+E73A"
+  }, 
+  "U+FEB33": {
+    "softbank": "U+E138"
+  }, 
+  "U+FEB32": {
+    "softbank": "U+E12E", 
+    "kddi": "U+E5D2"
+  }, 
+  "U+FEB05": {
+    "docomo": "U+E703", 
+    "kddi": "U+EB2F"
+  }, 
+  "U+FE530": {
+    "softbank": "U+E317", 
+    "kddi": "U+E511"
+  }, 
+  "U+FEB37": {
+    "softbank": "U+E213", 
+    "kddi": "U+E50F"
+  }, 
+  "U+FEB36": {
+    "softbank": "U+E212", 
+    "docomo": "U+E6DD", 
+    "kddi": "U+E5B5"
+  }, 
+  "U+FE4D6": {
+    "softbank": "U+E13E", 
+    "docomo": "U+E674", 
+    "kddi": "U+E51A"
+  }, 
+  "U+FE4D7": {
+    "softbank": "U+E31A", 
+    "docomo": "U+E674", 
+    "kddi": "U+E51A"
+  }, 
+  "U+FE4D4": {
+    "softbank": "U+E318", 
+    "kddi": "U+EA9E"
+  }, 
+  "U+FE4D5": {
+    "softbank": "U+E319", 
+    "kddi": "U+EB6B"
+  }, 
+  "U+FE4D2": {
+    "softbank": "U+E031", 
+    "docomo": "U+E71A", 
+    "kddi": "U+E5C9"
+  }, 
+  "U+FE4D3": {
+    "softbank": "U+E302", 
+    "kddi": "U+EA93"
+  }, 
+  "U+FE4D0": {
+    "docomo": "U+E711", 
+    "kddi": "U+EB77"
+  }, 
+  "U+FE4D1": {
+    "softbank": "U+E10E", 
+    "docomo": "U+E71A", 
+    "kddi": "U+E5C9"
+  }, 
+  "U+FE536": {
+    "docomo": "U+E6AE", 
+    "kddi": "U+EB03"
+  }, 
+  "U+FE4D8": {
+    "softbank": "U+E31B", 
+    "kddi": "U+EA9F"
+  }, 
+  "U+FE4D9": {
+    "softbank": "U+E321", 
+    "kddi": "U+EAA3"
+  }, 
+  "U+FE819": {
+    "kddi": "U+E507"
+  }, 
+  "U+FE818": {
+    "softbank": "U+E042", 
+    "kddi": "U+EADC"
+  }, 
+  "U+FE822": {
+    "kddi": "U+E58B"
+  }, 
+  "U+FE973": {
+    "docomo": "U+E643", 
+    "kddi": "U+E4ED"
+  }, 
+  "U+FE811": {
+    "kddi": "U+EB6E"
+  }, 
+  "U+FE810": {
+    "kddi": "U+EB43"
+  }, 
+  "U+FE813": {
+    "softbank": "U+E03E", 
+    "docomo": "U+E6F6", 
+    "kddi": "U+E5BE"
+  }, 
+  "U+FE535": {
+    "softbank": "U+E112", 
+    "docomo": "U+E685", 
+    "kddi": "U+E51F"
+  }, 
+  "U+FE815": {
+    "softbank": "U+E040"
+  }, 
+  "U+FE814": {
+    "softbank": "U+E326", 
+    "docomo": "U+E6FF", 
+    "kddi": "U+E505"
+  }, 
+  "U+FE817": {
+    "kddi": "U+EB40"
+  }, 
+  "U+FE816": {
+    "softbank": "U+E041", 
+    "kddi": "U+E506"
+  }, 
+  "U+FE1B1": {
+    "softbank": "U+E12B", 
+    "kddi": "U+E4EC"
+  }, 
+  "U+FE1B0": {
+    "softbank": "U+E10C", 
+    "kddi": "U+E50E"
+  }, 
+  "U+FE1B3": {
+    "softbank": "U+E11C", 
+    "kddi": "U+E4F8"
+  }, 
+  "U+FE1B2": {
+    "softbank": "U+E11A", 
+    "kddi": "U+E4EF"
+  }, 
+  "U+FE1B5": {
+    "softbank": "U+E51E"
+  }, 
+  "U+FE1B4": {
+    "softbank": "U+E253"
+  }, 
+  "U+FE1B7": {
+    "softbank": "U+E052", 
+    "docomo": "U+E6A1", 
+    "kddi": "U+E4E1"
+  }, 
+  "U+FE1B6": {
+    "softbank": "U+E51F", 
+    "kddi": "U+EB1C"
+  }, 
+  "U+FE1B9": {
+    "docomo": "U+E74E", 
+    "kddi": "U+EB7E"
+  }, 
+  "U+FE1B8": {
+    "softbank": "U+E04F", 
+    "docomo": "U+E6A2", 
+    "kddi": "U+E4DB"
+  }, 
+  "U+FE7E8": {
+    "softbank": "U+E202", 
+    "docomo": "U+E661", 
+    "kddi": "U+EA82"
+  }, 
+  "U+FE7E9": {
+    "softbank": "U+E01D", 
+    "docomo": "U+E662", 
+    "kddi": "U+E4B3"
+  }, 
+  "U+FE7D7": {
+    "softbank": "U+E132", 
+    "docomo": "U+E659", 
+    "kddi": "U+E4B9"
+  }, 
+  "U+FE7D6": {
+    "softbank": "U+E42A", 
+    "docomo": "U+E658", 
+    "kddi": "U+E59A"
+  }, 
+  "U+FE7D1": {
+    "softbank": "U+E016", 
+    "docomo": "U+E653", 
+    "kddi": "U+E4BA"
+  }, 
+  "U+FEB65": {
+    "softbank": "U+E219", 
+    "docomo": "U+E69C", 
+    "kddi": "U+E53A"
+  }, 
+  "U+FE7D0": {
+    "docomo": "U+E652"
+  }, 
+  "U+FE7EB": {
+    "softbank": "U+E136", 
+    "docomo": "U+E71D", 
+    "kddi": "U+E4AE"
+  }, 
+  "U+FE7D3": {
+    "softbank": "U+E015", 
+    "docomo": "U+E655", 
+    "kddi": "U+E4B7"
+  }, 
+  "U+FE968": {
+    "softbank": "U+E33C", 
+    "kddi": "U+EAB2"
+  }, 
+  "U+FE7D2": {
+    "softbank": "U+E014", 
+    "docomo": "U+E654", 
+    "kddi": "U+E599"
+  }, 
+  "U+FE53B": {
+    "softbank": "U+E11E", 
+    "docomo": "U+E682", 
+    "kddi": "U+E5CE"
+  }, 
+  "U+FE7EA": {
+    "softbank": "U+E01C", 
+    "docomo": "U+E6A3", 
+    "kddi": "U+E4B4"
+  }, 
+  "U+FE820": {
+    "softbank": "U+E129", 
+    "kddi": "U+E580"
+  }, 
+  "U+FE7EF": {
+    "softbank": "U+E15A", 
+    "docomo": "U+E65E", 
+    "kddi": "U+E4B1"
+  }, 
+  "U+FE82F": {
+    "softbank": "U+E21D", 
+    "docomo": "U+E6E3", 
+    "kddi": "U+E523"
+  }, 
+  "U+FE53A": {
+    "docomo": "U+E730", 
+    "kddi": "U+E4A0"
+  }, 
+  "U+FE4EE": {
+    "softbank": "U+E514", 
+    "kddi": "U+EB12"
+  }, 
+  "U+FE7EE": {
+    "softbank": "U+E135", 
+    "docomo": "U+E6A3", 
+    "kddi": "U+E4B4"
+  }, 
+  "U+FE4ED": {
+    "softbank": "U+E513", 
+    "kddi": "U+EB11"
+  }, 
+  "U+FE82C": {
+    "softbank": "U+E210", 
+    "docomo": "U+E6E0", 
+    "kddi": "U+EB84"
+  }, 
+  "U+FE82B": {
+    "softbank": "U+E211", 
+    "docomo": "U+E6DF"
+  }, 
+  "U+FE4EF": {
+    "softbank": "U+E008", 
+    "docomo": "U+E681", 
+    "kddi": "U+E515"
+  }, 
+  "U+FE1BA": {
+    "softbank": "U+E523", 
+    "docomo": "U+E74F", 
+    "kddi": "U+E4E0"
+  }, 
+  "U+FE7EC": {
+    "softbank": "U+E039", 
+    "kddi": "U+EB6D"
+  }, 
+  "U+FE1BC": {
+    "softbank": "U+E055", 
+    "docomo": "U+E750", 
+    "kddi": "U+E4DC"
+  }, 
+  "U+FE1BB": {
+    "softbank": "U+E523", 
+    "docomo": "U+E74F", 
+    "kddi": "U+EB76"
+  }, 
+  "U+FE1BE": {
+    "softbank": "U+E01A", 
+    "docomo": "U+E754", 
+    "kddi": "U+E4D8"
+  }, 
+  "U+FE1BD": {
+    "softbank": "U+E019", 
+    "docomo": "U+E751", 
+    "kddi": "U+E49A"
+  }, 
+  "U+FE7ED": {
+    "softbank": "U+E10D", 
+    "kddi": "U+E5C8"
+  }, 
+  "U+FE1BF": {
+    "softbank": "U+E10B", 
+    "docomo": "U+E755", 
+    "kddi": "U+E4DE"
+  }
+}
